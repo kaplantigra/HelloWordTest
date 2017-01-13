@@ -1,1 +1,2 @@
 this is the test!!!
+This is the text added to file from scratch!!!
